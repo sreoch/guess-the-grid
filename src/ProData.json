@@ -1,0 +1,488 @@
+{
+	"players": [
+		{
+			"name": "Fly",
+			"nationality": "Israel",
+			"pastTeams": [
+				"Shopify Rebellion",
+				"Evil Geniuses",
+				"OG",
+				"Talon Esports",
+				"monkey Business",
+				"Fnatic.EU",
+				"Team Secret"
+			],
+			"position": "Position 5"
+		},
+		{
+			"name": "Puppey",
+			"nationality": "Estonia",
+			"pastTeams": ["Na'Vi", "Team Secret"],
+			"position": "Position 5"
+		},
+		{
+			"name": "Arteezy",
+			"nationality": "Canada",
+			"pastTeams": [
+				"Kaipi",
+				"Evil Geniuses",
+				"Team Secret",
+				"Take Five",
+				"Sadboys",
+				"Shopify Rebellion"
+			],
+			"position": "Position 1"
+		},
+		{
+			"name": "iceiceice",
+			"nationality": "Singapore",
+			"pastTeams": [
+				"Team DK",
+				"Vici Gaming",
+				"Fnatic",
+				"Team Faceless",
+				"Mineski",
+				"Evil Geniuses",
+				"Bleed Esports",
+				"Team SMG"
+			],
+			"position": "Position 3"
+		},
+		{
+			"name": "Kuroky",
+			"nationality": "Germany",
+			"pastTeams": [
+				"mousesports",
+				"Team Secret",
+				"Nigma",
+				"Team Liquid",
+				"5Jungz",
+				"Na'Vi"
+			],
+			"position": "Position 5"
+		},
+		{
+			"name": "LaNm",
+			"nationality": "China",
+			"pastTeams": [
+				"EHOME",
+				"Vici Gaming",
+				"Team DK",
+				"Azure Ray",
+				"Xtreme Gaming",
+				"Team Aster",
+				"RNG",
+				"TongFu"
+			],
+			"position": "Position 4"
+		},
+		{
+			"name": "Zai",
+			"nationality": "Sweden",
+			"pastTeams": [
+				"Sadboys",
+				"Team Secret",
+				"Evil Geniuses",
+				"Tundra Esports",
+				"Team Liquid",
+				"OpTic Gaming",
+				"Kaipi"
+			],
+			"position": "Position 3"
+		},
+		{
+			"name": "Cr1t-",
+			"nationality": "Denmark",
+			"pastTeams": [
+				"mousesports",
+				"Meet Your Makers",
+				"Evil Geniuses",
+				"monkey Business",
+				"Team Falcons",
+				"Shopify Rebellion",
+				"OG"
+			],
+			"position": "Position 4"
+		},
+		{
+			"name": "ddc",
+			"nationality": "Macau",
+			"pastTeams": ["EHOME", "Vici Gaming", "Royal", "CDEC Gaming"],
+			"position": "Position 5"
+		},
+		{
+			"name": "Fata",
+			"nationality": "Germany",
+			"pastTeams": [
+				"5Jungz",
+				"Team Secret",
+				"Cloud9",
+				"mousesports",
+				"Kaipi",
+				"Quincy Crew",
+				"Soniqs",
+				"Tundra Esports",
+				"Alliance",
+				"NiP",
+				"mudgolems"
+			],
+			"position": "Position 5"
+		},
+		{
+			"name": "N0tail",
+			"nationality": "Denmark",
+			"pastTeams": ["Fnatic", "Team Secret", "OG", "Cloud9", "monkey Business"],
+			"position": "Position 5"
+		},
+		{
+			"name": "s4",
+			"nationality": "Sweden",
+			"pastTeams": [
+				"Alliance",
+				"OG",
+				"goonsquad",
+				"Evil Geniuses",
+				"Team Secret",
+				"No Tidehunter"
+			],
+			"position": "Position 3"
+		},
+		{
+			"name": "Somnus",
+			"nationality": "China",
+			"pastTeams": [
+				"Vici Gaming",
+				"LGD Gaming",
+				"PSG.LGD",
+				"RNG",
+				"Azure Ray",
+				"Elephant"
+			],
+			"position": "Position 2"
+		},
+		{
+			"name": "fy",
+			"nationality": "China",
+			"pastTeams": [
+				"Vici Gaming",
+				"PSG.LGD",
+				"Elephant",
+				"Invictus Gaming",
+				"Azure Ray"
+			],
+			"position": "Position 4"
+		},
+		{
+			"name": "MISERY",
+			"nationality": "Denmark",
+			"pastTeams": [
+				"Meet Your Makers",
+				"Evil Geniuses",
+				"Cloud9",
+				"mousesports",
+				"Team Secret",
+				"OpTic Gaming",
+				"TSM",
+				"Digital Chaos",
+				"Chaos EC",
+				"Bleed Esports"
+			],
+			"position": "Position 5"
+		},
+		{
+			"name": "Sneyking",
+			"nationality": "United States",
+			"pastTeams": [
+				"Dignitas",
+				"compLexity",
+				"Newbee",
+				"Cloud9",
+				"Tundra Esports",
+				"Team Falcons"
+			],
+			"position": "Position 5"
+		},
+		{
+			"name": "Universe",
+			"nationality": "United States",
+			"pastTeams": [
+				"Evil Geniuses",
+				"Dignitas",
+				"Team Secret",
+				"Quincy Crew",
+				"NiP"
+			],
+			"position": "Position 3"
+		},
+		{
+			"name": "33",
+			"nationality": "Israel",
+			"pastTeams": [
+				"Kaipi",
+				"HellRaisers",
+				"mudgolems",
+				"Alliance",
+				"Tundra Esports",
+				"Team Liquid"
+			],
+			"position": "Position 3"
+		},
+		{
+			"name": "Abed",
+			"nationality": "Phillipines",
+			"pastTeams": [
+				"Digital Chaos",
+				"Fnatic",
+				"Evil Geniuses",
+				"Shopify Rebellion",
+				"Blacklist"
+			],
+			"position": "Position 2"
+		},
+		{
+			"name": "Ame",
+			"nationality": "China",
+			"pastTeams": ["LGD Gaming", "PSG.LGD", "CDEC Gaming", "Xtreme Gaming"],
+			"position": "Position 1"
+		},
+		{
+			"name": "Miracle-",
+			"nationality": "Jordan",
+			"pastTeams": ["Team Liquid", "OG", "Nigma"],
+			"position": "Position 2"
+		},
+		{
+			"name": "SumaiL",
+			"nationality": "Pakistan",
+			"pastTeams": ["Evil Geniuses", "OG", "Team Liquid", "Quincy Crew"],
+			"position": "Position 2"
+		},
+		{
+			"name": "Ramzes",
+			"nationality": "Russia",
+			"pastTeams": ["Virtus.pro", "Evil Geniuses", "EG", "Vici Gaming"],
+			"position": "Position 1"
+		},
+		{
+			"name": "Ana",
+			"nationality": "Australia",
+			"pastTeams": ["OG"],
+			"position": "Position 1"
+		},
+		{
+			"name": "JerAx",
+			"nationality": "Finland",
+			"pastTeams": ["OG", "Team Liquid"],
+			"position": "Position 4"
+		},
+		{
+			"name": "Topson",
+			"nationality": "Finland",
+			"pastTeams": ["OG"],
+			"position": "Position 2"
+		},
+		{
+			"name": "Ceb",
+			"nationality": "France",
+			"pastTeams": ["OG"],
+			"position": "Position 3"
+		},
+		{
+			"name": "MATUMBAMAN",
+			"nationality": "Finland",
+			"pastTeams": ["Team Liquid", "Alliance", "OG", "Team Secret"],
+			"position": "Position 1"
+		},
+		{
+			"name": "w33",
+			"nationality": "Romania",
+			"pastTeams": [
+				"mousesports",
+				"Team Secret",
+				"Digital Chaos",
+				"paiN Gaming"
+			],
+			"position": "Position 2"
+		},
+		{
+			"name": "MinD_ContRoL",
+			"nationality": "Bulgaria",
+			"pastTeams": ["Team Liquid", "mousesports", "Alliance", "OG"],
+			"position": "Position 3"
+		},
+		{
+			"name": "GH",
+			"nationality": "Jordan",
+			"pastTeams": ["Team Liquid", "Nigma"],
+			"position": "Position 4"
+		},
+		{
+			"name": "Kaka",
+			"nationality": "China",
+			"pastTeams": ["Newbee", "Invictus Gaming", "Keen Gaming"],
+			"position": "Position 5"
+		},
+		{
+			"name": "QO",
+			"nationality": "South Korea",
+			"pastTeams": ["MVP Phoenix", "Fnatic"],
+			"position": "Position 2"
+		},
+		{
+			"name": "MidOne",
+			"nationality": "Malaysia",
+			"pastTeams": ["Team Secret"],
+			"position": "Position 2"
+		},
+		{
+			"name": "Moo",
+			"nationality": "United States",
+			"pastTeams": ["compLexity Gaming", "Evil Geniuses", "J.Storm"],
+			"position": "Position 3"
+		},
+		{
+			"name": "Fear",
+			"nationality": "United States",
+			"pastTeams": ["Evil Geniuses", "Digital Chaos"],
+			"position": "Position 1"
+		},
+		{
+			"name": "Kpii",
+			"nationality": "Australia",
+			"pastTeams": ["Newbee", "Mineski", "TNC Predator"],
+			"position": "Position 3"
+		},
+		{
+			"name": "DuBu",
+			"nationality": "South Korea",
+			"pastTeams": ["MVP Phoenix", "Team Liquid", "OG"],
+			"position": "Position 4"
+		},
+		{
+			"name": "Febby",
+			"nationality": "South Korea",
+			"pastTeams": ["MVP Phoenix", "Fnatic", "TNC Predator"],
+			"position": "Position 4"
+		},
+		{
+			"name": "Forev",
+			"nationality": "South Korea",
+			"pastTeams": ["MVP Phoenix", "Digital Chaos", "TNC Predator"],
+			"position": "Position 3"
+		},
+		{
+			"name": "Chalice",
+			"nationality": "China",
+			"pastTeams": ["PSG.LGD"],
+			"position": "Position 3"
+		},
+		{
+			"name": "YawaR",
+			"nationality": "Pakistan",
+			"pastTeams": ["Quincy Crew", "Chaos Esports Club"],
+			"position": "Position 1"
+		},
+		{
+			"name": "Saksa",
+			"nationality": "Estonia",
+			"pastTeams": ["mousesports", "OG", "Team Secret"],
+			"position": "Position 5"
+		},
+		{
+			"name": "Raven",
+			"nationality": "Philippines",
+			"pastTeams": ["TNC Predator", "Fnatic"],
+			"position": "Position 1"
+		},
+		{
+			"name": "Armel",
+			"nationality": "Philippines",
+			"pastTeams": ["TNC Predator"],
+			"position": "Position 2"
+		},
+		{
+			"name": "Gabbi",
+			"nationality": "Philippines",
+			"pastTeams": ["TNC Predator"],
+			"position": "Position 1"
+		},
+		{
+			"name": "Aui_2000",
+			"nationality": "Canada",
+			"pastTeams": ["Evil Geniuses", "Cloud9", "Team Secret"],
+			"position": "Position 4"
+		},
+		{
+			"name": "Gorgc",
+			"nationality": "Sweden",
+			"pastTeams": ["Team Singularity"],
+			"position": "Position 1"
+		},
+		{
+			"name": "Sccc",
+			"nationality": "China",
+			"pastTeams": ["Newbee", "Team Aster"],
+			"position": "Position 2"
+		},
+		{
+			"name": "Iceberg",
+			"nationality": "Ukraine",
+			"pastTeams": ["Team Empire", "Natus Vincere", "Team Spirit"],
+			"position": "Position 2"
+		},
+		{
+			"name": "Fng",
+			"nationality": "Russia",
+			"pastTeams": ["Virtus.pro", "Natus Vincere", "Team Spirit"],
+			"position": "Position 5"
+		},
+		{
+			"name": "Lil",
+			"nationality": "Ukraine",
+			"pastTeams": ["Natus Vincere", "Virtus.pro", "HellRaisers"],
+			"position": "Position 4"
+		},
+		{
+			"name": "23savage",
+			"nationality": "Thailand",
+			"pastTeams": ["Fnatic", "T1"],
+			"position": "Position 1"
+		},
+		{
+			"name": "Faith_bian",
+			"nationality": "China",
+			"pastTeams": ["EHOME", "PSG.LGD"],
+			"position": "Position 3"
+		},
+		{
+			"name": "ChYuan",
+			"nationality": "China",
+			"pastTeams": ["Newbee", "Royal Never Give Up"],
+			"position": "Position 2"
+		},
+		{
+			"name": "Pieliedie",
+			"nationality": "Sweden",
+			"pastTeams": ["Fnatic", "Team Secret", "Ninjas in Pyjamas"],
+			"position": "Position 5"
+		},
+		{
+			"name": "MoonMeander",
+			"nationality": "Canada",
+			"pastTeams": ["Digital Chaos", "compLexity Gaming", "OG"],
+			"position": "Position 3"
+		},
+		{
+			"name": "Yang",
+			"nationality": "China",
+			"pastTeams": ["Vici Gaming", "PSG.LGD"],
+			"position": "Position 3"
+		},
+		{
+			"name": "YapzOr",
+			"nationality": "Estonia",
+			"pastTeams": ["Team Secret", "Team Empire"],
+			"position": "Position 4"
+		}
+	]
+}
